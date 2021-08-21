@@ -1,0 +1,9 @@
+decimal to octal
+insertion sort
+median of a running stream
+n queen problem
+heap sort
+ctalan numbers
+prims algorithm
+
+
